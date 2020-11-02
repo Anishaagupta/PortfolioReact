@@ -69,7 +69,7 @@ const About = () => {
             exit="exit"
         >
             <h6 className="about__intro">
-                I describe myself as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.
+            I describe myself as a self-motivated, self-taught, creative, and ambitious web developer who's persistant and quick learner. I have 1+ years working experience in Front End Web Development.
             </h6>
             <div className="container about__container">
                 <h6 className="about__heading">What I offer</h6>
