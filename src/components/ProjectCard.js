@@ -16,7 +16,7 @@ const ProjectCard = ({ project: { name, image, deployed_url, github_url } }) => 
                 </div>
             </figure>
 
-        </div >
+        </div>
     );
 };
 
