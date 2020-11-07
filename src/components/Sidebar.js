@@ -7,7 +7,7 @@ import pin from '../assets/icons/pin.svg'
 import phone from '../assets/icons/phone-call.svg'
 import tie from '../assets/icons/tie.svg'
 import msg from '../assets/icons/message.svg'
-import coder from '../assets/projects_images/IMG20170405161255.jpg'
+import coder from '../assets/projects_images/IMG_20191023_092627.jpg'
 import resume from '../assets/MyResume.pdf';
 import { motion } from 'framer-motion'
 
