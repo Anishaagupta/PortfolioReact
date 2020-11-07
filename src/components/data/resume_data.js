@@ -41,7 +41,7 @@ const tools = [
     },
     {
         icon: react,
-        name: 'Visual Studio Code (VS Code)',
+        name: 'Visual Studio Code',
         level: '75'
     },
     {
