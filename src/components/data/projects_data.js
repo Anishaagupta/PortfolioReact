@@ -15,6 +15,7 @@ import weatherReact from '../../assets/projects_images/weather-react.png';
 import clock from '../../assets/projects_images/digital-react.png';
 import practice from '../../assets/projects_images/fetch.png';
 import pokemon from '../../assets/projects_images/pokemon.png';
+import pizza from '../../assets/projects_images/pizza.png';
 
 
 const data_projects = [
@@ -46,6 +47,13 @@ const data_projects = [
         deployed_url: 'https://anisha-weather-app.netlify.app/',
         github_url: 'https://github.com/Anishaagupta/weather-react-app',
         category: ['react.js']
+    },
+    {
+        name: 'React Website',
+        image: portfolio,
+        deployed_url: 'https://anisha-pizza-app.netlify.app/',
+        github_url: 'https://github.com/Anishaagupta/pizza-app',
+        category: ['react']
     },
     {
         name: 'My First Portfolio',
