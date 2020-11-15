@@ -53,7 +53,7 @@ const data_projects = [
         image: pizza,
         deployed_url: 'https://anisha-pizza-app.netlify.app/',
         github_url: 'https://github.com/Anishaagupta/pizza-app',
-        category: ['react']
+        category: ['react.js']
     },
     {
         name: 'My First Portfolio',
