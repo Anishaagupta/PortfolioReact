@@ -14,6 +14,7 @@ import weather from '../../assets/projects_images/weather-node.png';
 import weatherReact from '../../assets/projects_images/weather-react.png';
 import clock from '../../assets/projects_images/digital-react.png';
 import practice from '../../assets/projects_images/fetch.png';
+import jqApp from '../../assets/projects_images/Screenshot226.png';
 import pokemon from '../../assets/projects_images/pokemon.png';
 import pizza from '../../assets/projects_images/pizza.png';
 
@@ -34,12 +35,20 @@ const data_projects = [
         category: ['node.js', 'mongoDB']
     },
     {
+        name: 'JQuery Application',
+        image: jqApp,
+        deployed_url: 'https://anisha-todo-in-jquery.netlify.app/',
+        github_url: 'https://github.com/Anishaagupta/NewApp',
+        category: ['javascript']
+    },
+    {
         name: 'Play Music App',
         image: music,
         deployed_url: 'https://anisha-mymusic-app.netlify.app',
         github_url: 'https://github.com/Anishaagupta/MusicApp-Js',
         category: ['javascript']
     },
+    
     
     {
         name: 'Weather Application',
