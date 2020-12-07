@@ -17,6 +17,7 @@ import practice from '../../assets/projects_images/fetch.png';
 import jqApp from '../../assets/projects_images/Screenshot226.png';
 import pokemon from '../../assets/projects_images/pokemon.png';
 import pizza from '../../assets/projects_images/pizza.png';
+import calc from '../../assets/projects_images/calc.png';
 
 
 const data_projects = [
@@ -39,6 +40,13 @@ const data_projects = [
         image: jqApp,
         deployed_url: 'https://anisha-todo-in-jquery.netlify.app/',
         github_url: 'https://github.com/Anishaagupta/NewApp',
+        category: ['javascript']
+    },
+    {
+        name: 'Calculator JQuery Application',
+        image: calc,
+        deployed_url: 'https://github.com/Anishaagupta/Calc-JQuery',
+        github_url: 'https://github.com/Anishaagupta/Calc-JQuery',
         category: ['javascript']
     },
     {
