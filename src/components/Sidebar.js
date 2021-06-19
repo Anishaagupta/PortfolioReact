@@ -43,7 +43,7 @@ const Sidebar = () => {
             <figure className="sidebar__social-icons my-2">
                 <a href="https://www.linkedin.com/in/anisha-gupta-66096318b/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" className="sidebar__icon mr-3" /></a>
                 <a href="https://www.facebook.com/profile.php?id=100014848606870" target="_blank" rel="noopener noreferrer"><img src={facebook} alt="facebook" className="sidebar__icon mr-3" /></a>
-                <a href="https://www.instagram.com/theraresoulandmind/" target="_blank" rel="noopener noreferrer"><img src={instagram} alt="instagram" className="sidebar__icon" /></a>
+                <a href="https://www.instagram.com/anishaaguptta/" target="_blank" rel="noopener noreferrer"><img src={instagram} alt="instagram" className="sidebar__icon" /></a>
             </figure>
             <div className="sidebar__contact">
                 <div className="sidebar__item sidebar__github">
